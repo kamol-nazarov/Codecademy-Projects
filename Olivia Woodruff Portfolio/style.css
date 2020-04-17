@@ -1,0 +1,25 @@
+/* html elements */
+body {
+	font-family: Georgia;
+	background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+}
+
+.header h1 {
+	color: azure;
+}
+/* classes */
+.header {
+	background-color: cornflowerblue;
+	text-align: center;
+}
+
+.about-me {
+	font-size: 20px;
+	opacity: 50%;
+}
+
+.title {
+	font-weight: bold;
+}
+
+/* id's */
