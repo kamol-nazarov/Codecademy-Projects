@@ -1,1 +1,57 @@
+* {
+	font-family: Helvetica;
+}
 
+.header {
+	text-align: center;
+	background-image: url(img/pattern.jpeg);
+	font-size: 75px;
+	font-weight: bold;
+	color: khaki;
+	margin: 20px;
+}
+
+.image {
+	margin-left: 20px;
+	margin-top: -5px;
+	margin-bottom: -5px;
+}
+
+.brushes .title {
+	background-color: mediumspringgreen;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	margin: 20px;
+}
+
+.paragraph-lead {
+	font-weight: bold;
+}
+
+.paragraph,
+.paragraph-lead {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.paragraph .price {
+	font-weight: bold;
+	color: blue;
+}
+
+.frames .title {
+	background-color: lightcoral;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	margin: 20px;
+}
+
+.paint .title {
+	background-color: skyblue;
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	margin: 20px;
+}
