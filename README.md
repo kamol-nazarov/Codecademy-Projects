@@ -18,7 +18,7 @@ see [Here](https://github.com/kamol-nazarov/Codecademy-Projects/blob/master/Oliv
 
 ----
 ## Dasmotos-Arts Project
-see [Here](https://github.com/kamol-nazarov/Codecademy-Projects/blob/master/Dasmotos-Arts%20Project/index.html)
+see [Here](https://htmlpreview.github.io/?https://github.com/kamol-nazarov/Codecademy-Projects/blob/master/Dasmotos-Arts%20Project/index.html)
 
 ----
 ## Updates
