@@ -1,8 +1,5 @@
-# A heading
+# Project 3
 
-My component is this:
+<?php insertTemplate("./Project_3/index.html") ?>
 
-\`\`\`html
-<?php insertTemplate("./Project_3") ?>
-\`\`\`
 
