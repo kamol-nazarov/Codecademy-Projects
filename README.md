@@ -1,4 +1,3 @@
-```
 # A heading
 
 My component is this:
@@ -7,4 +6,3 @@ My component is this:
 <?php insertTemplate("./Project_3") ?>
 \`\`\`
 
-```
