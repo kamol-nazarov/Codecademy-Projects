@@ -1,0 +1,30 @@
+/* html elements */
+* {
+	font-family: Helvetica;
+}
+
+img {
+	height: 150px;
+}
+
+/* classes */
+.description {
+	font-size: 20px;
+}
+
+.ingredients {
+	list-style: square;
+}
+
+li .time {
+	color: gray;
+}
+
+.external-link {
+	color: seagreen;
+}
+
+/* id's */
+#cook-time {
+	font-weight: bold;
+}
